@@ -4,6 +4,7 @@
 #ifndef LAPI_GDEXTENSION
 #include "core/object/ref_counted.h"
 #include "core/variant/callable.h"
+#include "core/variant/typed_array.h"
 #else
 #include <godot_cpp/classes/ref.hpp>
 #include <godot_cpp/templates/vector.hpp>
